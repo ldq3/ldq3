@@ -15,7 +15,7 @@ I'm 言成, an enthusiast of philosophy🤔, computer science👨‍💻, and da
 
 # 💡 About my name 
 
-Exactly, "言成" is the deconstruction of the Chinese character "诚", and I greatly like its another meaning "promises made will be fulfilled 🌟"(言出必成).
+Exactly, "言成" is the deconstruction of the Chinese character "诚", and I greatly like its literal meaning "promises made will be fulfilled 🌟"(言出必成).
 
 My user name of gitbub——"ldq3", is related to my real name😜.
 
