@@ -7,6 +7,7 @@
 <div align="center">
 <a href="https://ldq3.github.io/"><img src="https://img.shields.io/badge/言成-Blog-8c36db" /></a>&emsp;
 <a href="https://space.bilibili.com/178501786"><img src="https://img.shields.io/badge/枕流不请自来-Bilibili-ff69b4" /></a>&emsp;
+<a href="mailto:dequan_li.cn@outlook.com6"><img src="https://img.shields.io/badge/dequan_li.cn-Email-blue" /></a>&emsp;
 
 </div>
 
