@@ -12,23 +12,13 @@ Initially, "言成" is the deconstruction of the Chinese character "诚".
 
 My gitbub user name "ldq3" is related to my real name.
 
-I also have other nicknames like "枕流" and "leap".
+I also have other nicknames such as "枕流" and "leap".
 
 # 🛠️ Tool
-![windows](https://skillicons.dev/icons?i=windows)
-![linux](https://skillicons.dev/icons?i=linux)
-
-![c](https://skillicons.dev/icons?i=c)
-![cpp](https://skillicons.dev/icons?i=cpp)
-![rust](https://skillicons.dev/icons?i=rust)
-
-![bash](https://skillicons.dev/icons?i=bash)
-![python](https://skillicons.dev/icons?i=py)
-![matlab](https://skillicons.dev/icons?i=matlab)
-
-![docker](https://skillicons.dev/icons?i=docker)
-![git](https://skillicons.dev/icons?i=git)
-![github](https://skillicons.dev/icons?i=github)
-
-![vscode](https://skillicons.dev/icons?i=vscode)
-![obsidian](https://skillicons.dev/icons?i=obsidian)
+| Category  | Common |
+| --- | --- |
+| OS | ![OS](https://skillicons.dev/icons?i=windows,linux) |
+| Programming | ![system](https://skillicons.dev/icons?i=c,cpp,rust) |
+| Script | ![script](https://skillicons.dev/icons?i=bash,py,matlab) |
+| Project | ![project](https://skillicons.dev/icons?i=docker,git,github) |
+| Editor | ![vscode](https://skillicons.dev/icons?i=vscode,obsidian,vim) | 
