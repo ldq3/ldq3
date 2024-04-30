@@ -4,7 +4,14 @@
 
 </div>
 
-Hi, there 👋 I'm 言成, an enthusiast of philosophy🤔, computer science👨‍💻, and data science📊. 
+<div align="center">
+<a href="https://ldq3.github.io/"><img src="https://img.shields.io/badge/言成-博客-8c36db" /></a>&emsp;
+<a href="https://space.bilibili.com/178501786"><img src="https://img.shields.io/badge/枕流不请自来-B站-ff69b4" /></a>&emsp;
+
+</div>
+
+# 👋 Hey, there 
+I'm 言成, an enthusiast of philosophy🤔, computer science👨‍💻, and data science📊. 
 
 # 💡 About my name 
 
