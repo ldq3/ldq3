@@ -15,11 +15,15 @@ I'm 言成, an enthusiast of philosophy🤔, computer science👨‍💻, and da
 
 # 💡 About my name 
 
-Initially, "言成" is the deconstruction of the Chinese character "诚".
+Exactly, "言成" is the deconstruction of the Chinese character "诚", and I greatly like its another meaning "promises made will be fulfilled 🌟"(言出必成).
 
-My gitbub user name "ldq3" is related to my real name.
+My user name of gitbub——"ldq3", is related to my real name😜.
 
-I also have other nicknames such as "枕流" and "leap".
+I also have other nicknames such as "枕流" and "leap". 
+
+"枕流" is derived from the original saying “所以枕流，欲洗其耳”，which can be found in the 《世说新语》. You guys may be familiar with Natsume Sōseki (夏目 漱石), whose name "漱石" is derived from the original saying "所以漱石，欲砺其齿" that forms a complete expression "所以枕流，欲洗其耳；所以漱石，欲砺其齿" with the preceding one.
+
+"leap", emm……, becuase I'm a big fan of 《Spider-Man: Into the Spider-Verse》, and I like the "a leap of faith" of Miles. Another reason is I really nead a nickname in English sometimes😂.
 
 # 🛠️ Tool
 | Category  | Common |
